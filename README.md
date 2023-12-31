@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nikhilchakravarthy
-- 👀 I’m interested in Full Stack,Cyber Security,
-- 🌱 I’m currently learning Full Stack
-- 💞️ I’m looking for internship oppurtunities to prove myself.
+- 👀 I’m a software developer
+
+
   
   
   
